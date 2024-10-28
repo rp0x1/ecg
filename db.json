@@ -1,3 +1,25 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "urgent"
+      ],
+      "id": 1730154534150,
+      "content": "clean room"
+    },
+    {
+      "tags": [
+        "boring"
+      ],
+      "id": 1730154548774,
+      "content": "crank in fortnite"
+    },
+    {
+      "tags": [
+        "very important"
+      ],
+      "id": 1730154571502,
+      "content": "learn this course"
+    }
+  ]
 }
