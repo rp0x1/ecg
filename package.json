@@ -6,9 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "type": "module",
   "license": "ISC",
   "description": "",
   "bin" : {
-    "hamburger" : "./index.js"
+    "aether" : "./index.js"
   }
 }
