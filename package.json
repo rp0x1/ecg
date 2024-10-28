@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "bin": {
-    "aether": "./index.js"
+    "note": "./index.js"
   },
   "dependencies": {
     "yargs": "^17.7.2"
