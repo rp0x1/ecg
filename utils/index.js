@@ -1,2 +1,2 @@
-import { other } from "./other";
-import { count, somethingElse } from "./utils";
+import { other } from "./other.js";
+import { count, somethingElse } from "./utils.js";

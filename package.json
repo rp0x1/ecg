@@ -9,7 +9,10 @@
   "type": "module",
   "license": "ISC",
   "description": "",
-  "bin" : {
-    "aether" : "./index.js"
+  "bin": {
+    "aether": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
   }
 }

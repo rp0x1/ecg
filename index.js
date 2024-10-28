@@ -1,12 +1,11 @@
 #!/usr/bin/env node
-//const utils = require("./utils/index");
+import fs from "node:fs";
+import http from "node:http";
 
-const typeMeat = process.argv[2] || undefined;
-const quantityOfMeat = process.argv[3] || undefined;
-
-const newMeat = {
-    typeMeat,
-    quantityOfMeat
+const note = process.argv[2] || undefined;
+const newNote = {
+    content: note,
+    id: Date.now()
 }
 
-console.log(newMeat);
+console.log(newNote);
